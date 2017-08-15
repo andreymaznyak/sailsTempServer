@@ -1,5 +1,7 @@
 # Sails.js + React.js Examples
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/andreymaznyak/sailsTempServer.svg)](https://greenkeeper.io/)
+
 Inspired by the React.js tutorials, these examples shows ways to integrate Sails.js as the real time persistent backend model to a React.js frontend. 
 Two examples are provided: a markdown chat application and the TodoMVC application. Both showcasing the real time capabilities for multiple clients.
 
